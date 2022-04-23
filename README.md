@@ -1,6 +1,6 @@
 # ksense-assessment
 
-## DIRECTIONS: 
+DIRECTIONS: 
 You will be developing a one-page web application that receives JSON data and renders the data into the DOM. You will be using the following API: https://jsonplaceholder.typicode.com/
 
 You should be able to find the endpoints you need on that page for users, posts, etc.
